@@ -1,5 +1,5 @@
 .PHONY: all
-all: a
+all: a b
 
-%: %.f90
+%: %.f90 program.f90
 	gfortran $< -o $@
