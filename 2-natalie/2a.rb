@@ -1,6 +1,6 @@
 x, y = 0, 0
 
-File.new('test-data').readlines().each do |line|
+File.readlines("test-data").each do |line|
   dir, val = line.split()
   xmul, ymul = 0, 0
 
