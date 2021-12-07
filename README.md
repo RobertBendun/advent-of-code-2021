@@ -25,3 +25,5 @@ My solutions seem horrrible, need to refactor them later.
 Decided to use VSCode since it's recommended by most tutorials. A lot of operations that are provided in Haskell are missing, which make poor functional expirience. Maybe it's fault of lack of tools like Hoogle or my own assumptions.
 
 ### Day 5: [Fortran](https://fortran-lang.org/)
+
+A language I had no expectations for, and yet it surprised me the most. This level of support for programming with arrays is not common 30 years later. It feels like functional programming is a distraction for right model for data oriented language.
