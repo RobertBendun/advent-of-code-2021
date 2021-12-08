@@ -42,7 +42,7 @@ program Advent_Of_Code
     call draw_line(grid, grid_size, line)
   end do
 
-  call print_grid(grid, grid_size)
+  ! call print_grid(grid, grid_size)
 
   print *, "Answer: ", count(grid >= 2)
 
