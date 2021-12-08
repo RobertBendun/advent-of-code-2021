@@ -3,3 +3,5 @@ data.old
 .ionide
 a
 b
+.ccls-cache
+*.out
