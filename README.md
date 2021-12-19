@@ -31,3 +31,7 @@ A language I had no expectations for, and yet it surprised me the most. This lev
 ### Day 6: [Nasm](https://www.nasm.us)
 
 ### Day 7: [Haskell](https://www.haskell.org/)
+
+### Day 9: [Julia](https://julialang.org/)
+
+Seems like the best modern scripting language in 2021.
