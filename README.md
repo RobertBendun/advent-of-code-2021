@@ -35,3 +35,7 @@ A language I had no expectations for, and yet it surprised me the most. This lev
 ### Day 9: [Julia](https://julialang.org/)
 
 Seems like the best modern scripting language in 2021.
+
+### Day 10: [Rust](https://www.rust-lang.org/)
+
+Out of all languages that I tried in this challange, this is the one where you feel like you are fighing against the language. Standard library is huge, and quite nice, but language itself cannot be considered ergonomic.
